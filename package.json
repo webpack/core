@@ -1,9 +1,10 @@
 {
 	"name": "webpack-core",
-	"version": "0.1.5",
+	"version": "0.2.0",
 	"author": "Tobias Koppers @sokra",
 	"description": "The core of webpack and enhanced-require.",
 	"dependencies": {
+		"source-map": "https://github.com/sokra/source-map/archive/master.tar.gz"
 	},
 	"licenses": [
 		{

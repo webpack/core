@@ -5,6 +5,7 @@ The shared core of [webpack](https://github.com/webpack/webpack) and [enhanced-r
 It mainly encapsulate
 
 * the loader stuff
+* SourceMap stuff
 
 Not useable as standalone module, but this may change in the future.
 
