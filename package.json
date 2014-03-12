@@ -1,6 +1,6 @@
 {
 	"name": "webpack-core",
-	"version": "0.3.3",
+	"version": "0.3.4",
 	"author": "Tobias Koppers @sokra",
 	"description": "The core of webpack and enhanced-require.",
 	"dependencies": {
