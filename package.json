@@ -4,7 +4,7 @@
 	"author": "Tobias Koppers @sokra",
 	"description": "The core of webpack and enhanced-require.",
 	"dependencies": {
-		"source-map": "0.1.34"
+		"source-map": "~0.1.38"
 	},
 	"licenses": [
 		{
