@@ -4,7 +4,7 @@
 	"author": "Tobias Koppers @sokra",
 	"description": "The core of webpack and enhanced-require.",
 	"dependencies": {
-		"source-map": "~0.1.38"
+		"source-map": "~0.3.0"
 	},
 	"licenses": [
 		{
@@ -20,7 +20,7 @@
 		"node":  ">=0.6"
 	},
 	"homepage": "http://github.com/webpack/core",
-	"repository": { 
+	"repository": {
 		"type": "git",
 		"url" : "https://github.com/webpack/core.git"
 	}
